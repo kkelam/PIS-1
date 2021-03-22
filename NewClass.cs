@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class NewClass
     {
-        static void Ispis()
+        static void Metodica()
         {
             
         }

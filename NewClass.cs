@@ -6,9 +6,9 @@ namespace ConsoleApp1
 {
     class NewClass
     {
-        static void Metoda()
+        static void Metodica()
         {
-
+            
         }
     }
 }
